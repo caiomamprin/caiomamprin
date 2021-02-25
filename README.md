@@ -12,9 +12,11 @@ Meu nome é Caio Henrique Mamprin, sou Desenvolvedor Fullstack desde 2019. Atual
 - 🤔 Procuro ajuda com GraphQL para .NET, melhorias em .Net Core, Javascript e Vue.js .
 - 💬 ergunte-me sobre .NET Core ou Vue.js.
 - 📫 Contatos:
-  --> E-mail: caiomamprin7@gmail.com
-  -->>Linkedin: https://www.linkedin.com/in/caio-henrique-mamprin-a5b407129/
+-  --> E-mail: caiomamprin7@gmail.com
+-  -->Linkedin: https://www.linkedin.com/in/caio-henrique-mamprin-a5b407129/
 - 
 - ⚡ Curiosidades: 
 - --> Apesar de amar uma "telinha", jogos online como Fifa e COD Warzone, também gosto de socializar, festas, fazer amizades e estar com os amigos.
+- --> Gosto de esportes e exercicíos físicos :muscle:
+- --> Faço terapia semanal pois acho importante cuidar da mente.
 
