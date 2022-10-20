@@ -4,12 +4,12 @@
 **caiomamprin/caiomamprin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. 
 -->
 
-Meu nome é Caio Henrique Mamprin, sou Desenvolvedor Fullstack desde 2019. Atualmente trabalho com .NET Core, Javascrpit, Vue.js , ASP.net, Sql Server e Docker.
+Meu nome é Caio Henrique Mamprin, sou Desenvolvedor Fullstack desde 2019. Atualmente trabalho com .NET Core, Javascrpit, Vue.js, Angular.js, ASP.net e Sql Server.
 
-- 🔭 Atualmente trabalho na B3 - Bolsa de Valores do Brasil.
-- 🌱 Atualmente estudo .NET Core, Vue.js, javascrpit e Docker.
-- 👯 Procuro colaborar com .Net Core , ASP.net, Javascrpit e Vue.js. 
-- 🤔 Procuro ajuda com GraphQL para .NET, melhorias em .Net Core, Javascript e Vue.js .
+- 🔭 Meu último cargo foi agora em 2022 na B3 - Bolsa de Valores do Brasil, como Analista Desenvolvedor Fullstack .Net.
+- 🌱 Atualmente estudo .NET Core, Angular, javascrpit e Docker.
+- 👯 Procuro colaborar com .Net Core , ASP.net, Javascrpit e Angular. 
+- 🤔 Procuro ajuda com GraphQL para .NET, melhorias em .Net Core, Javascript Angular, e Vue.js  .
 - 💬 ergunte-me sobre .NET Core ou Vue.js.
 - 📫 Contatos:
 -  --> E-mail: caiomamprin7@gmail.com
