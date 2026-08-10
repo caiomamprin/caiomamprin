@@ -6,7 +6,7 @@
 
 Meu nome é Caio Henrique Mamprin, sou Desenvolvedor Fullstack desde 2019. Atualmente trabalho com .NET Core, Javascrpit, Vue.js, Angular.js, ASP.net e Sql Server.
 
-- 🔭 Meu último cargo foi agora em 2022 na B3 - Bolsa de Valores do Brasil, como Analista Desenvolvedor Fullstack .Net.
+- 🔭 Engenheiro de Software .Net Fullstack
 - 🌱 Atualmente estudo .NET Core, Angular, javascrpit e Docker.
 - 👯 Procuro colaborar com .Net Core , ASP.net, Javascrpit e Angular. 
 - 🤔 Procuro ajuda com GraphQL para .NET, melhorias em .Net Core, Javascript Angular, e Vue.js  .
